@@ -1,0 +1,15 @@
+h2{
+    background-color: blue;
+}
+img{
+    width:200px;
+    height:200px;
+}
+button
+{
+    background-color: orange;
+    color:blue;
+    width:80px;
+    height:20px;
+    align-content: center;
+}
